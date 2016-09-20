@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BAC Calculator</string>
+    <string name="saveButton">Save</string>
+    <string name="weightLabel">Weight (lbs)</string>
+    <string name="genderToggle">Gender</string>
+    <string name="enterWeight">Enter Weight</string>
+    <string name="drinkSizeLabel">Drink Size:</string>
+    <string name="oneOzDrink">1 Oz.</string>
+    <string name="fiveOzDrink">5 Oz.</string>
+    <string name="twelveOzDrink">12 Oz.</string>
+    <string name="alcoholLabel">Alcohol %</string>
+    <string name="addDrinkButton">Add Drink</string>
+    <string name="resetButton">Reset</string>
+    <string name="bacLabel1">BAC Level: </string>
+    <string name="statusLabel">Your Status:</string>
+    <string name="displayStatus">You\'re Safe</string>
+    <string name="seekBarValue" />
+    <string name="carefulString">Be careful..</string>
+    <string name="overString">Over the limit!</string>
+    <string name="okayString">You\'re Safe</string>
+</resources>
